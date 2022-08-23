@@ -22,8 +22,7 @@ A brief description: -
 
 ## Screenshots
 
-# Image 0
-![Screenshot](Excel1.png)
+
 # Image 1
 ![alt text](https://github.com/aryang23/My-Chattty-World/blob/main/Images/Image%201.png)
 # Image 2
